@@ -1,0 +1,13 @@
+train: /Users/apurvpandey/Documents/Ai4spro/Try_1/dataset/train
+val: /Users/apurvpandey/Documents/Ai4spro/Try_1/dataset/valid
+test: /Users/apurvpandey/Documents/Ai4spro/Try_1/dataset/test
+
+nc: 1
+names: ['Medicine']
+
+roboflow:
+  workspace: apurv
+  project: annotation-jwh3z
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/apurv/annotation-jwh3z/dataset/1
